@@ -19,16 +19,19 @@ OctoAcme uses a lightweight, end-to-end project management process that moves wo
 
 ## Personas & Roles
 
-OctoAcme defines four core roles that collaborate throughout the project lifecycle:
+OctoAcme defines core delivery roles and supporting roles that collaborate throughout the project lifecycle:
 
 | Role | Core Responsibility |
 |---|---|
 | **Project Manager (PM)** | Coordinates delivery, maintains schedules, manages risks and dependencies, facilitates planning and retrospectives, and drives stakeholder communication. |
 | **Product Manager (PdM)** | Defines the problem, prioritizes the roadmap and backlog, aligns trade-offs with stakeholders and engineering, and measures whether outcomes are being achieved. |
 | **Developers** | Design, implement, test, and document solutions while contributing to estimation, code review, and risk identification. |
-| **QA / Testing** | Validate acceptance criteria and ensure quality and readiness for release. |
+| **QA / Test Engineers** | Define and execute test strategies, validate acceptance criteria, and ensure quality and readiness for release throughout the delivery cycle. |
+| **UX / UI Designers** | Ensure solutions are user-centered and accessible by creating wireframes, prototypes, and design specs, and validating implementation fidelity. |
+| **Business Analysts** | Bridge business needs and technical solutions by eliciting requirements, documenting business logic, and ensuring alignment across teams. |
+| **Subject Matter Experts (SMEs)** | Provide domain-specific expertise to validate requirements, designs, and deliverables at key project milestones. |
 
-Stakeholders provide inputs, approvals, and ongoing feedback throughout the project.
+Stakeholders provide inputs, approvals, and ongoing feedback throughout the project. See the [Roles and Personas](octoacme-roles-and-personas.md) doc for full role definitions including responsibilities, goals, and cross-role interactions.
 
 ---
 
@@ -75,6 +78,7 @@ Use the links below to navigate to detailed guidance for each phase or topic:
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Pre-release checklist, deployment steps, smoke tests, and post-deploy verification. |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Sprint retros, incident reviews, and tracking improvement actions. |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and communication expectations for each role. |
+| [Role Collaboration Guide](octoacme-role-collaboration-guide.md) | Role handoffs, RACI reference, and cross-functional collaboration touchpoints. |
 
 ---
 
